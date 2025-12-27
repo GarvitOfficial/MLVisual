@@ -1,0 +1,9 @@
+{
+    "title": "Naive Bayes",
+    "description": "What's the probability? Guess based on past evidence! 🎰",
+    "tags": [
+        "classification",
+        "supervised",
+        "probabilistic"
+    ]
+}

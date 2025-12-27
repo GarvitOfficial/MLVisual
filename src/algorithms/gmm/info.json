@@ -1,0 +1,9 @@
+{
+    "title": "Gaussian Mixture Model",
+    "description": "Soft clustering with probability clouds! Each point can belong to multiple clusters. ☁️",
+    "tags": [
+        "clustering",
+        "unsupervised",
+        "probabilistic"
+    ]
+}

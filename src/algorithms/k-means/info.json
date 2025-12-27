@@ -1,0 +1,5 @@
+{
+  "title": "K-Means Clustering",
+  "description": "Visualize how the K-Means algorithm partitions data points into K clusters.",
+  "tags": ["clustering", "unsupervised"]
+}

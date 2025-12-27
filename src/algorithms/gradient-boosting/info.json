@@ -1,0 +1,9 @@
+{
+    "title": "Gradient Boosting",
+    "description": "Each new learner fixes the mistakes of the last! 💪",
+    "tags": [
+        "ensemble",
+        "boosting",
+        "supervised"
+    ]
+}

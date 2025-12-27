@@ -1,0 +1,9 @@
+{
+    "title": "Random Forest",
+    "description": "Grow a forest of decision trees! The majority wins! 🌲🌲🌲",
+    "tags": [
+        "ensemble",
+        "classification",
+        "supervised"
+    ]
+}

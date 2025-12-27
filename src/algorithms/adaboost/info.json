@@ -1,0 +1,9 @@
+{
+    "title": "AdaBoost",
+    "description": "Focus on mistakes! Each weak learner gets a vote based on accuracy. 🎯",
+    "tags": [
+        "ensemble",
+        "boosting",
+        "supervised"
+    ]
+}

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ML Adventure!</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Outfit:wght@300..900&display=swap"
+    rel="stylesheet">
+</head>
+
+<body>
+  <div id="app">
+    <header>
+      <div class="logo-area">
+        <h1>🤖 ML Adventure</h1>
+      </div>
+      <button id="home-btn" class="nav-btn" style="display: none;">🗺️ Map</button>
+    </header>
+
+    <main id="main-content">
+      <!-- Dashboard (List of algorithms) will be injected here -->
+      <div id="dashboard" class="dashboard-grid"></div>
+
+      <!-- Active visualization will be injected here -->
+      <div id="visualization-container" class="hidden"></div>
+    </main>
+  </div>
+  <script type="module" src="/src/main.js"></script>
+</body>
+
+</html>

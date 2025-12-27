@@ -1,0 +1,8 @@
+{
+    "title": "K-Nearest Neighbors",
+    "description": "Who are your besties? Vote based on your closest neighbors!",
+    "tags": [
+        "classification",
+        "supervised"
+    ]
+}

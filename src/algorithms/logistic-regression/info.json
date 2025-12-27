@@ -1,0 +1,8 @@
+{
+    "title": "Logistic Regression",
+    "description": "Predict Yes/No outcomes! Will the hero defeat the dragon based on training hours?",
+    "tags": [
+        "classification",
+        "supervised"
+    ]
+}

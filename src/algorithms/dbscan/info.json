@@ -1,0 +1,8 @@
+{
+    "title": "DBSCAN",
+    "description": "Find clusters of any shape based on density! Good for weird blobs 🫧",
+    "tags": [
+        "clustering",
+        "unsupervised"
+    ]
+}

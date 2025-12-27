@@ -1,0 +1,9 @@
+{
+    "title": "Perceptron",
+    "description": "The simplest brain cell! Watch it learn a line to separate. ⚡",
+    "tags": [
+        "classification",
+        "neural network",
+        "supervised"
+    ]
+}

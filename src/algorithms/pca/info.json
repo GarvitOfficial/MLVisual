@@ -1,0 +1,8 @@
+{
+    "title": "PCA",
+    "description": "Shrink dimensions! Find the 'spine' of your data cloud. 📉",
+    "tags": [
+        "dimensionality reduction",
+        "unsupervised"
+    ]
+}

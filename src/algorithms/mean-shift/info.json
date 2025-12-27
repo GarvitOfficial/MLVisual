@@ -1,0 +1,8 @@
+{
+    "title": "Mean Shift",
+    "description": "Points shift towards density peaks until they converge! 🏔️",
+    "tags": [
+        "clustering",
+        "unsupervised"
+    ]
+}
